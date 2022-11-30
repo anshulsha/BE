@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "praxis-atrium-370214",
+  "private_key_id": "0050dec5dbd1b2396e53e74379d9ea7104387ec0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCw3T7dmBhoJIoX\n3fgxyZoOekBanNpUzy50lTX9bSBY4ip5fzPMbgSNlDCcMfKT4+8mPVIx58Pt86fC\nEacJM3f42Tte/iT/1djLRSKnUd+AoDm4EQ3XiZR5CszhLSQEQhoV8lmozqxbvP1d\nzrslnga3x1GNSeN7JVlciYpMdM6kQWCZZDY6/HrPOjsxS9RqwiOSPoFaSS/lafKg\nOd1xnmI/vZiCjmCf0hbzwcy90CVY1oWaZ3DkXhGIFGNorWoHIqODS1Pn1Z9aqt1d\nNmmIwIASG/42NukGlrESEhTMhb4cz3aye2UFlWWQd+RTuHXF3tMUcMRHk/of/pA7\nfIn/aek5AgMBAAECggEABhxlRnhk3Eq26SnNBsHCeVGVogvdXb5mCoOSGmMhq2O7\nhMTCYDcRugD7lP02aam5STonk69zjTTOZqqZea+CxUeSmshvmtW9G3jhQHEk82eV\n1vUWSoyayeJEcsG07UWJ0f+BQ/XjVEaGMpTCa2nqxxrNIVnP0SEMCPuvmmitL+7Y\nb9KA30HMMsrK7zlbvbj0ChWjCEn1XpblgTIaVjI0LO4y7c58Rw24oT/k9IE/MlgD\n+Hh4ThGPNrPik2T7C265VYO4TOlIYbrR0/MRKfwRN0ohjZMy3X9Nvn5xxYm4yGEk\nOHAj3GmW+571E1ROJ+TlWFRBpCGKHTwq9Nfm+OAOIQKBgQDcVuwt+JzjCDdiZ5uS\nU58DDJsy4nkAVgibphTha9sK0y54l6QSE62BCUdlCTRp1+FPwINqtaIb2b3WE8Dg\nIg1b7NJuMsny20DeG4qXNav2vm5dldflq0YutHziLKpyHJ/sSuf3mCBlsWC5SY9T\nSX51TX2bot1kzc6FTgaJX90V1QKBgQDNfQ9ySTdzzf+2U7ecUjVsbB/PrL8KR9rL\naZ12cvUiQDMRt6ej+mS+6aZtiggpnp81WA3+HhAQD5OAhmbEug7oO8YoKC6TDyDg\n3vyY6OVqVRBAStExfp0QnFRGTED21jqBxQIkPdr/X2+5Ueg1l5JJYRxExdFTqXqX\nc+X+AMBD1QKBgHB/fOTX25pbFpQKnDawtS5EYHUxhmAyjQCTYnPZsqOrQT3XBrEo\nFN0eFLK0aWtlCqfCfhacmCEqIi/MNBz7peB6YNJc4hk58ru0SiV8BMndXtIvcGTV\n9uZfxqdf8MKEdO6bLCaRKHFjiCPyN9hpXMSdhPVSyUDvh3MubE31gRblAoGBALwH\nwNeiGaTVDjWHm47mRs5kjiNZfiJpJ9NUXGrjvF3QAysmM7c/y2pKoSjA0sFKzYJh\nhcRPPAGGT0GfOnCvlC57a9KZGi0k/b/nK5q8GhlXpxw9mfjBU/W8Jv2Ajz2PQFA4\ntsH0++0MJk6cnXBUtt6Ahv6DSQ1WGsB1pDHt/ADVAoGBAIsnbQOhhn7N/Os8JWXN\ngntj0TyTQ7tj8YJX4qC69mygTMC3F8wwAuMjMWSZcMT7od8c/pCh7gcyQx65bd3p\n5fQ/5FdxfMo/Na6NyrVO9iBuSTtWlOFP51l390W9YEjhvZl/yaQJMFM7hJsfVMir\nMRptGlpcJ0RKN2uhOf/zJaJ5\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet-database@praxis-atrium-370214.iam.gserviceaccount.com",
+  "client_id": "111988686775731603203",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet-database%40praxis-atrium-370214.iam.gserviceaccount.com"
+}
